@@ -2,5 +2,8 @@ package main
 
 func main() {
 	go Start()
-	Request()
+	// RequestGet()
+	// RequestPost()
+	// RequestFile()
+	RequestAuth()
 }
